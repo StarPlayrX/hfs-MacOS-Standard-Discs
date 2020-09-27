@@ -12,4 +12,4 @@ cd ~/hfs
 
 sudo ./hfs.sh
 
-Follow instructions.
+Follow the one screen instructions
