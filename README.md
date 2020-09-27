@@ -1,5 +1,5 @@
 # hfs MacOS Standard Discs
- Enables legacy hfs MacOS Standard Disks to be used on mac OS 10.15 Catalina
+ Enables legacy hfs MacOS Standard Disks to be read on mac OS 10.15 Catalina
 
 hfs standard discs (pre HFS+)
 mount normally on Mac OS 10.15 Catalina
