@@ -9,6 +9,7 @@ Do not attempt to use this shell script on macOS 11 Big Sur.
 Copy hfs folder to your home folder.
 
 cd ~/hfs
+
 sudo ./hfs.sh
 
 Follow instructions.
